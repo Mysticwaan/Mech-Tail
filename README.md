@@ -1,55 +1,69 @@
-# Mech-Tail
+# Wearable Cat Tail Controlled by Toes
 
-Creating a wearable device shaped like a cat's tail that can be controlled with your toes is a fascinating and ambitious project. Let's break down the steps and components involved, and then we'll sketch a blueprint for clarity.
+![image](https://github.com/Mysticwaan/Mech-Tail/assets/136006928/8f3c2149-5eef-4732-8aa5-2b5d8c38cb29)
+
+## Creating a wearable device shaped like a cat's tail that can be controlled with your toes is a fascinating and ambitious project. This guide will break down the steps and components involved, providing a clear blueprint for assembly.
 Components and Materials
 
-    Tail Structure:
-        Material: Lightweight, flexible material such as foam or silicone.
-        Framework: A flexible spine (e.g., a series of connected segments or a flexible rod).
+![image](https://github.com/Mysticwaan/Mech-Tail/assets/136006928/727c9778-d2a6-4f86-ab9e-377fcfd84dd9)
 
-    Actuators:
-        Servo Motors: Small, lightweight servo motors to control the movement of the tail.
-        Cables/Wires: Strong, flexible cables to connect the servo motors to the tail segments.
+Tail Structure
 
-    Control System:
-        Microcontroller: An Arduino or Raspberry Pi to process inputs and control the servos.
-        Sensors: Pressure sensors or flex sensors to detect toe movements.
-        Power Supply: Battery pack to power the microcontroller and servos.
+    Material: Lightweight, flexible material such as foam or silicone.
+    Framework: A flexible spine (e.g., a series of connected segments or a flexible rod).
 
-    Wiring and Connectivity:
-        Wires: Insulated wires to connect sensors to the microcontroller and microcontroller to the servos.
-        Connectors: Suitable connectors to make the setup modular and easy to assemble/disassemble.
+Actuators
 
-Step-by-Step Construction
+    Servo Motors: Small, lightweight servo motors to control the movement of the tail.
+    Cables/Wires: Strong, flexible cables to connect the servo motors to the tail segments.
 
-    Design the Tail:
-        Shape and Size: Model the tail to the desired shape and size using a 3D design tool or manual crafting techniques.
-        Framework: Integrate a flexible spine that can bend and twist in all directions.
+Control System
 
-    Attach Actuators:
-        Positioning: Attach servo motors at intervals along the tail to control different segments.
-        Connection: Use cables or thin rods connected to the servos to pull and push the tail segments.
+    Microcontroller: An Arduino or Raspberry Pi to process inputs and control the servos.
+    Sensors: Pressure sensors or flex sensors to detect toe movements.
+    Power Supply: Battery pack to power the microcontroller and servos.
 
-    Toe Sensors:
-        Sensor Placement: Place pressure sensors or flex sensors inside the shoe, positioned around the toes.
-        Wiring: Run wires from the sensors along the leg to the microcontroller.
+Wiring and Connectivity
 
-    Microcontroller Setup:
-        Programming: Write a program to read inputs from the toe sensors and translate them into servo movements.
-        Connections: Connect sensors to input pins and servos to output pins on the microcontroller.
+    Wires: Insulated wires to connect sensors to the microcontroller and microcontroller to the servos.
+    Connectors: Suitable connectors to make the setup modular and easy to assemble/disassemble.
+    
+![image](https://github.com/Mysticwaan/Mech-Tail/assets/136006928/93a5a671-f50f-4d47-ae78-2d24b8cc8c6a)
 
-    Integration:
-        Mounting: Secure the microcontroller and battery pack to a belt or harness that can be worn around the waist.
-        Tail Attachment: Attach the tail to the back of the belt or harness securely.
+## Step-by-Step Construction
+1. Design the Tail
 
-Blueprint and Visual Details
+    Shape and Size: Model the tail to the desired shape and size using a 3D design tool or manual crafting techniques.
+    Framework: Integrate a flexible spine that can bend and twist in all directions.
+
+2. Attach Actuators
+
+    Positioning: Attach servo motors at intervals along the tail to control different segments.
+    Connection: Use cables or thin rods connected to the servos to pull and push the tail segments.
+
+3. Toe Sensors
+
+    Sensor Placement: Place pressure sensors or flex sensors inside the shoe, positioned around the toes.
+    Wiring: Run wires from the sensors along the leg to the microcontroller.
+
+4. Microcontroller Setup
+
+    Programming: Write a program to read inputs from the toe sensors and translate them into servo movements.
+    Connections: Connect sensors to input pins and servos to output pins on the microcontroller.
+
+5. Integration
+
+    Mounting: Secure the microcontroller and battery pack to a belt or harness that can be worn around the waist.
+    Tail Attachment: Attach the tail to the back of the belt or harness securely.
+
+# Blueprint and Visual Details
 
 Here is a simple blueprint to visualize the setup:
 1. Tail Structure
 
 css
 
-    [Segment 1]----[Servo 1]----[Segment 2]----[Servo 2]----[Segment 3]----[Servo 3]----[Tip]
+[Segment 1]----[Servo 1]----[Segment 2]----[Servo 2]----[Segment 3]----[Servo 3]----[Tip]
 
     Each segment is connected by a flexible joint, and servos control the movement at each joint.
 
@@ -57,7 +71,7 @@ css
 
 css
 
-    [Toe Sensors]----[Wires]----[Microcontroller]----[Wires]----[Servos]
+[Toe Sensors]----[Wires]----[Microcontroller]----[Wires]----[Servos]
 
     Sensors in the shoe detect toe movements.
     Wires run up the legs to the microcontroller on a belt.
@@ -67,45 +81,39 @@ css
 
 Possible Functions and Purposes
 
-    Cosplay/Costume Enhancement:
-        Adds realism and interactivity to cat-themed costumes.
+    Cosplay/Costume Enhancement: Adds realism and interactivity to cat-themed costumes.
+    Expressive Movements: Mimic emotional expressions (e.g., excited tail wagging, defensive puffing up).
+    Interactive Art Projects: Use as part of an interactive installation or performance art piece.
+    Therapeutic Applications: Provide sensory feedback for individuals with sensory processing disorders.
+    Educational Tool: Teach robotics and human-machine interaction concepts.
 
-    Expressive Movements:
-        Mimic emotional expressions (e.g., excited tail wagging, defensive puffing up).
+## Assembly Instructions
+Construct the Tail
 
-    Interactive Art Projects:
-        Use as part of an interactive installation or performance art piece.
+    Cut the tail material to the desired shape.
+    Attach the flexible spine within the tail.
 
-    Therapeutic Applications:
-        Provide sensory feedback for individuals with sensory processing disorders.
+Install Servos
 
-    Educational Tool:
-        Teach robotics and human-machine interaction concepts.
+    Place servos at predetermined points.
+    Connect cables to tail segments.
 
-Assembly Instructions
+Prepare Toe Sensors
 
-    Construct the Tail:
-        Cut the tail material to the desired shape.
-        Attach the flexible spine within the tail.
+    Embed sensors in shoe insoles.
+    Run wires from the sensors to the upper leg.
 
-    Install Servos:
-        Place servos at predetermined points.
-        Connect cables to tail segments.
+Connect to Microcontroller
 
-    Prepare Toe Sensors:
-        Embed sensors in shoe insoles.
-        Run wires from the sensors to the upper leg.
+    Solder wires from sensors to microcontroller inputs.
+    Solder wires from microcontroller outputs to servo motors.
 
-    Connect to Microcontroller:
-        Solder wires from sensors to microcontroller inputs.
-        Solder wires from microcontroller outputs to servo motors.
+Power and Programming
 
-    Power and Programming:
-        Connect the battery pack to the microcontroller.
-        Upload the control program to the microcontroller.
+    Connect the battery pack to the microcontroller.
+    Upload the control program to the microcontroller.
 
-    Final Assembly:
-        Attach the microcontroller and battery to the belt/harness.
-        Secure the tail to the back of the belt/harness.
+Final Assembly
 
-By following these steps, you can create a functional and interactive cat tail device controlled by your toes, with applications ranging from cosplay to educational demonstrations.
+    Attach the microcontroller and battery to the belt/harness.
+    Secure the tail to the back of the belt/harness.
