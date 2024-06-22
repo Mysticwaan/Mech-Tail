@@ -117,3 +117,6 @@ Final Assembly
 
     Attach the microcontroller and battery to the belt/harness.
     Secure the tail to the back of the belt/harness.
+    
+![OIG4](https://github.com/Mysticwaan/Mech-Tail/assets/136006928/98a49336-2f51-45c8-a948-55404a3bd181)
+
