@@ -2,7 +2,7 @@
 
 ![image](https://github.com/Mysticwaan/Mech-Tail/assets/136006928/8f3c2149-5eef-4732-8aa5-2b5d8c38cb29)
 
-## Creating a wearable device shaped like a cat's tail that can be controlled with your toes is a fascinating and ambitious project. This guide will break down the steps and components involved, providing a clear blueprint for assembly.
+## Creating a wearable cat tail device controlled by my toe movements, with wires running from the tail to sensors in my shoes:
 Components and Materials
 
 ![image](https://github.com/Mysticwaan/Mech-Tail/assets/136006928/727c9778-d2a6-4f86-ab9e-377fcfd84dd9)
