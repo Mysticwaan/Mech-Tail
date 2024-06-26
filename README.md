@@ -6,7 +6,7 @@
 Components and Materials
 
 ![image](https://github.com/Mysticwaan/Mech-Tail/assets/136006928/727c9778-d2a6-4f86-ab9e-377fcfd84dd9)
-
+  
 Tail Structure
 
     Material: Lightweight, flexible material such as foam or silicone.
