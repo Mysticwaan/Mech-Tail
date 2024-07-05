@@ -20,7 +20,7 @@ Actuators
     Cables/Wires: Strong, flexible cables to connect the servo motors to the tail segments.
 
 Control System
-
+  
     Microcontroller: An Arduino or Raspberry Pi to process inputs and control the servos.
     Sensors: Pressure sensors or flex sensors to detect toe movements.
     Power Supply: Battery pack to power the microcontroller and servos.
