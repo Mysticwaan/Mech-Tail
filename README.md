@@ -1,5 +1,7 @@
 # Wearable Cat Tail Controlled by Toes
-  
+
+![453696167_790859766460406_1563344670375953519_n](https://github.com/user-attachments/assets/76953b07-588e-4b1a-bb72-9d3da8eaeb02)
+
 ![image](https://github.com/Mysticwaan/Mech-Tail/assets/136006928/8f3c2149-5eef-4732-8aa5-2b5d8c38cb29)
     
 ![image](https://github.com/Mysticwaan/Mech-Tail/assets/136006928/45157ac2-389f-41d0-a84b-f0a26b430eac)
