@@ -9,6 +9,8 @@
 ## Creating a wearable cat tail device controlled by my toe movements, with wires running from the tail to sensors in my shoes:
 Components and Materials
 
+![Untitled](https://github.com/user-attachments/assets/8294b5cf-d083-43e1-b492-20a0d324a3fa)
+
 ![image](https://github.com/Mysticwaan/Mech-Tail/assets/136006928/727c9778-d2a6-4f86-ab9e-377fcfd84dd9)
   
 Tail Structure
